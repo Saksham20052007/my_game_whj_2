@@ -10,7 +10,7 @@ var heart1, heart2, heart3;
 var heart_img1, heart_img2, heart_img3;
 var obstacle, obsticle_img;
 var border_right,border_left,border_up,border_down;
-var gameState = Instructions;
+// var gameState = Instructions;
 
 
 function preload(){
